@@ -128,7 +128,7 @@ a:focus {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .header_section .header_top .contact_nav a i {
@@ -150,7 +150,7 @@ a:focus {
 }
 
 .header_section .header_top .contact_nav a:hover i {
-  color: #04233b;
+  color: #d24e02;
 }
 
 .header_section .header_bottom {
@@ -166,7 +166,7 @@ a:focus {
 .navbar-brand span {
   font-weight: bold;
   font-size: 24px;
-  color: #000000;
+  color: #d24e02;
 }
 
 .custom_nav-container {
@@ -188,7 +188,7 @@ a:focus {
 }
 
 .custom_nav-container .navbar-nav .nav-item:hover .nav-link, .custom_nav-container .navbar-nav .nav-item.active .nav-link {
-  color: #0a97b0;
+  color: #d24e02;
 }
 
 .custom_nav-container .nav_search-btn {
@@ -374,7 +374,7 @@ a:focus {
 .slider_section .detail-box .btn-box .btn1 {
   display: inline-block;
   padding: 10px 15px;
-  background-color: #0a97b0;
+  background-color: #d24e02;
   color: #ffffff;
   border-radius: 0;
   -webkit-transition: all .3s;
@@ -424,7 +424,7 @@ a:focus {
 .slider_section .carousel-indicators li.active {
   width: 20px;
   height: 20px;
-  background-color: #0a97b0;
+  background-color: #d24e02;
 }
 
 .service_section {
@@ -470,12 +470,12 @@ a:focus {
 }
 
 .service_section .box .detail-box a {
-  color: #04233b;
+  color: #d24e02;
   font-weight: 600;
 }
 
 .service_section .box .detail-box a:hover {
-  color: #0a97b0;
+  color: #8a561f;
 }
 
 .about_section .row {
@@ -872,7 +872,7 @@ a:focus {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  color: #ffffff;
+  color: #d24e02;
   border-radius: 100%;
   margin-right: 10px;
   font-size: 24px;
@@ -906,7 +906,7 @@ a:focus {
 }
 
 .info_section .info_links a:hover {
-  color: #0a97b0;
+  color: #d24e02;
 }
 
 .info_section form input {
